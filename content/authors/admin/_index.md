@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alex Mepham
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,28 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of York
+  url: "https://www.york.ac.uk/psychology/staff/postgrads/am2050/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multilingual speech-in-noise perception...
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cognitive Auditory Science
+- Speech Perception in Noise (SPIN)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: University of York
+    year: 2019 - present
+  - course: BSc in Psychology and Language Sciences
+    institution: University College London (UCL)
+    year: 2016 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
