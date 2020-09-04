@@ -61,9 +61,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 Alex Mepham is a PhD student investigating how different types of background noise impacts speech perception by mono- and multiingual listeners.
